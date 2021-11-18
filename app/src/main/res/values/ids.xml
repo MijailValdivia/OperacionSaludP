@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="num0" type="id" />
+    <item name="punto" type="id" />
+    <item name="resultado" type="id" />
+    <item name="igual" type="id" />
+    <item name="num2" type="id" />
+    <item name="num7" type="id" />
+    <item name="num4" type="id" />
+    <item name="num1" type="id" />
+    <item name="num8" type="id" />
+    <item name="num6" type="id" />
+    <item name="num5" type="id" />
+    <item name="num3" type="id" />
+    <item name="restar" type="id" />
+    <item name="num9" type="id" />
+    <item name="multiplicar" type="id" />
+    <item name="sumar" type="id" />
+    <item name="tangente" type="id" />
+    <item name="seno" type="id" />
+    <item name="coseno" type="id" />
+    <item name="raiz" type="id" />
+    <item name="logaritmo" type="id" />
+    <item name="dividir" type="id" />
+    <item name="parentesis2" type="id" />
+    <item name="parentesis1" type="id" />
+    <item name="exponente" type="id" />
+    <item name="porcentaje" type="id" />
+    <item name="delete" type="id" />
+</resources>

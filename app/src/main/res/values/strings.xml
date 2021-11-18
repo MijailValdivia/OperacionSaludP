@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OperacionSaludP</string>
+    <string name="txt_num1" />
+    <string name="txt_num2" />
+    <string name="btn_Sumar" />
+    <string name="btn_Restar" />
+    <string name="btn_Multiplicar" />
+    <string name="btn_Dividir" />
+    <string name="btn_Limpiar" />
+    <string name="tv_Resultado" />
+</resources>
